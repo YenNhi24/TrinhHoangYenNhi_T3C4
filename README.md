@@ -1,7 +1,6 @@
 ## 👋 Haiii! Welcome to my Readme!
 
-![Instagram Follow](https://www.instagram.com/yeonyi746)
-[![Instagram](https://img.shields.io/badge/Instagram-follow%20me-orange)](https://www.instagram.com/yeonyi746)
+[![Instagram](https://img.shields.io/badge/Instagram-follow%20me-orange)](https://www.instagram.com/yeonyi746/)
 
 
 🚀 **Giới thiệu**  
