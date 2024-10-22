@@ -1,6 +1,6 @@
 ## 👋 Haiii! Welcome to my Readme!
 
-![Instagram Follow](https://img.shields.io/twitter/follow/yeonyi746)
+![Instagram Follow](https://img.shields.io/instagram/follow/yeonyi746)
 
 🚀 **Giới thiệu**  
 Mình là một sinh viên có đam mê công nghệ và chơi các thể loại game trên thế giới. Mình đặc biệt yêu thích game và các ứng dụng công nghệ 
