@@ -12,10 +12,10 @@ Mình là một sinh viên có đam mê công nghệ và chơi các thể loại
 
 ## 💬 Liên hệ với mình
 
-- **Email**: [email@example.com](mailto:email@example.com)
-- **Twitter**: [@username](https://twitter.com/username)
-- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/username)
-- **Website**: [https://your-website.com](https://your-website.com)
+- **Email**: [akyomin1107@gmail.com](mailto:akyomin1107@gmail.com)
+- **Facebook**: [https://facebook.com/yeonyi.746](https://facebook.com/yeonyi.746)
+- **Zalo**: [https://zalo.me/yourusername](https://zalo.me/yourusername)
+
 
 ---
 
